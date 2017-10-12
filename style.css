@@ -1,0 +1,19 @@
+
+h1 { color: black }
+
+body {
+	background: lightblue;
+	color: black;
+	font-size: 16pt;
+	font-family: 'Sanchez', serif;
+}
+
+h1 { font-size: 24pt;
+	font-weight: bold;
+	color: black;
+}
+
+h2 { font-size: 200%; font-style: italic; }
+	text-decoration: underline;
+}
+
