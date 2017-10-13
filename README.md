@@ -1,1 +1,1 @@
-# kevinhock10.github.io
+# KevinHock10.github.io
